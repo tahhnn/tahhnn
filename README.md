@@ -1,4 +1,4 @@
-<img width="200" height="300" src="./img/tao.png">
+<img width="250" height="300" src="./img/tao.png">
 Không định kể đâu nhưng mà:
 
 - 🔭 Tôi thường làm việc ở trên máy tính 😀
