@@ -1,6 +1,6 @@
                                                            ### Welcome 👋
 
-<img src="./img/tao.png">
+<img src="./img/tao.png" style="display:flex,justify-content:center">
 Không định kể đâu nhưng mà:
 
 - 🔭 Tôi thường làm việc ở trên máy tính 😀
