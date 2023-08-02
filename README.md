@@ -1,4 +1,4 @@
-<img align="center" src="./img/tao.png">
+<img style="margin: 0 auto" src="./img/tao.png">
 Không định kể đâu nhưng mà:
 
 - 🔭 Tôi thường làm việc ở trên máy tính 😀
