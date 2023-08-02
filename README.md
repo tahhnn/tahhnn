@@ -13,7 +13,6 @@
            60% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
-
 @keyframes gradient {
           0% {
             background-position: 0% 50%;
@@ -24,9 +23,7 @@
           100% {
             background-position: 0% 50%;
           }
-        }
-
- .container {
+        }.container {
           --color-main: #5452ee;
           --color-primary: #e73c7e;
           --color-secondary: #23a6d5;
@@ -35,15 +32,12 @@
   background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
-
-  width: 100%;
+            width: 100%;
           height: 300px;
-
-  display: flex;
+          display: flex;
           justify-content: center;
           align-items: center;
           color: white;
-
 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
@@ -52,8 +46,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, A
           display: inline-block;
           transform-origin: 70% 70%;
         }
-
-   @media (prefers-color-scheme: light) {
+ @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
             --color-primary: #24b0ef;
@@ -71,7 +64,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, A
             animation: none;
           }
         }
-      </style>
+  </style>
 
  <div class="container">
         <h1><div class="hi">👋</div></h1>
