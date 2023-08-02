@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-Không định kể đâu nhưng mà
-Here are some ideas to get you started:
+Không định kể đâu nhưng mà:
 
 - 🔭 Tôi thường làm việc ở trên máy tính 😀
 - 🌱 Tôi hiện tại đang là sinh viên kỳ 5 tại Cao đẳng FPT PolyTechnic Hà Nội
