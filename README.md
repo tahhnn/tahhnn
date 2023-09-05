@@ -1,3 +1,4 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&redirect=true)
 <img width="170" height="200" src="./img/tao.png">
 Không định kể đâu nhưng mà:
 
