@@ -105,23 +105,6 @@
 
 </div>
 
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=🐍%20Contribution%20Snake&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> 💡 **Setup snake:** Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo (`tahhnn/tahhnn`) → generates snake animation from your contribution graph automatically.
-
-</div>
 
 ---
 
