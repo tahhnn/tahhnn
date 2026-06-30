@@ -23,7 +23,7 @@
 ## 🎵 Now Playing on Spotify
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
