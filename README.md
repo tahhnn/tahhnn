@@ -76,15 +76,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
 </div>
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=tahhnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahhnn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
 <br/>
 
 <div align="center">
