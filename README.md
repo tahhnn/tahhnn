@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Thanh%20Bui&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Front-End%20Developer%20%7C%20UI%20Craftsman%20⚡&descAlignY=62&descSize=18&descColor=d0d7de"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Thanh%20Bui&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=⚡%20Front-End%20Developer%20%7C%20UI%20Craftsman%20⚡&descAlignY=63&descSize=19&descColor=a78bfa"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&height=80&lines=🚀+Building+beautiful+web+experiences;⚛️+React+%7C+Vue.js+%7C+TypeScript+%7C+Node.js;🎨+Turning+ideas+into+pixel-perfect+UI;☕+Coffee-powered+code+architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=a78bfa&center=true&vCenter=true&random=false&width=750&height=80&lines=🚀+Building+beautiful+web+experiences;⚛️+React+%7C+Next.js+%7C+TypeScript+%7C+NestJS;🎨+Turning+ideas+into+pixel-perfect+UI;☕+Coffee-powered+code+architect)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/tahhnn?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/tahhnn)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=tahhnn&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/tahhnn)
+[![Profile Views](https://komarev.com/ghpvc/?username=tahhnn&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/tahhnn)
 &nbsp;
 [![Spotify](https://img.shields.io/badge/Listening_on-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 
@@ -18,18 +18,23 @@
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3"/>
+
 <div align="center">
 
 ## 🎵 Now Playing on Spotify
-
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3"/>
+
 ---
 
-## 🚀 Tech Arsenal
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=🚀%20Tech%20Arsenal&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
+</div>
 
 <div align="center">
 
@@ -57,7 +62,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 🛠️ Tools & Version Control
+### 🛠️ Tools & DevOps
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahhnn)
@@ -68,20 +73,53 @@
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
+</div>
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahhnn&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=f093fb&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=58A6FF&sideNums=ffffff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=tahhnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahhnn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahhnn&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f093fb&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=📈%20Contribution%20Graph&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
+</div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahhnn&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=f093fb&point=ff6b6b&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahhnn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f093fb&area=true&area_color=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:1e1b4b,100:0f0c29&height=60&text=🐍%20Contribution%20Snake&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tahhnn/tahhnn/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> 💡 **Setup snake:** Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo (`tahhnn/tahhnn`) → generates snake animation from your contribution graph automatically.
 
 </div>
 
@@ -95,10 +133,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=a78bfa&animation=twinkling&fontAlignY=68"/>
