@@ -22,6 +22,8 @@
 
 ## 🎵 Now Playing on Spotify
 
+> ⚠️ **Note:** If the widget below is broken, re-deploy your own instance at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) — the public Vercel deployment has hit its free tier limit.
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317tooel6kyz5mzkmhsdzvzidkcu&redirect=true)
 
 </div>
