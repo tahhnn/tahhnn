@@ -69,17 +69,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahhnn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahhnn&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=f093fb&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=58A6FF&sideNums=ffffff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
